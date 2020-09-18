@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images.qrc</file>
+        <file>../../../Bureau/Celeria_Background/Background/Celeria_Background.png</file>
+    </qresource>
+</RCC>
