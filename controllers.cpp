@@ -20,7 +20,7 @@ void Controllers::buttonClicked( ){
            QString fullName= jsonObject["maintenance"].toString();
            qDebug() << fullName << "qzdqzdqzdqzd";
        }
-       qDebug() << "je te viole";
+       qDebug() << "un truc";
     });
 
     /*QTextStream in(&inputFile);
